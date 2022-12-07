@@ -1,0 +1,7 @@
+
+# 阿里云大数据产品体系
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/21437124/1668585432349-041f6439-7113-4afc-a048-dcbba81fb59e.png#averageHue=%23fbfaf9&clientId=u0e034483-85f0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=824&id=u1dd04ef5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1030&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=174686&status=done&style=none&taskId=u4846b957-40ba-4aa9-b1ec-59cbe53dc48&title=&width=1536)
+
+# 大数据开发治理平台 DataWorks
+
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/21437124/1668492477094-22fb12be-b1a4-4056-8c00-e6bccc94d6cc.png#averageHue=%23aee2ec&clientId=u85926da3-540d-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=747&id=u7397e546&margin=%5Bobject%20Object%5D&name=image.png&originHeight=934&originWidth=1919&originalType=binary&ratio=1&rotation=0&showTitle=false&size=302940&status=done&style=none&taskId=uc7362f48-2f97-4962-8bf5-83232de0a98&title=&width=1535.2)<br />![image.png](https://cdn.nlark.com/yuque/0/2022/png/21437124/1668493030278-e1480f9d-4bab-4fed-a8f4-0a27708d0de1.png#averageHue=%23f4c29d&clientId=u85926da3-540d-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=750&id=uab3d4b8e&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1922&originalType=binary&ratio=1&rotation=0&showTitle=false&size=308494&status=done&style=none&taskId=u38b51e78-8025-4ffa-bf65-6d47299dd3f&title=&width=1537.6)
